@@ -61,7 +61,7 @@
     "esm": "^3.2.25",
     "jsbi": "^3.1.3",
     "mithril": "^2.0.3",
-    "postcss": "^7.0.17",
+    "postcss": "^8.2.10",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.0.5",
